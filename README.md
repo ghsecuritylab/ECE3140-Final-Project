@@ -1,6 +1,7 @@
 # ECE3140-Final-Project
 
 Haley Lee, Jonathan Gao
+
 ECE 3140 Spring 2019
 
 ## Snake Game
